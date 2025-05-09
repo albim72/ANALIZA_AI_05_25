@@ -85,7 +85,7 @@ Wymagania:
 
     Na końcu zaproponuj alternatywny wariant tego pomysłu w stylu grywalizacji (RPG AI mentorzy).
 
-    Zapisz wynik jako plik Excel (.xlsx), gotowy do pobrania.
+    Zapisz wynik jako plik Excel (.xlsx) LifeGoals_Splitter_Plan.xlsx, gotowy do pobrania.
 
 _____________
 Zadanie 2

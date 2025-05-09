@@ -1,19 +1,18 @@
 import openai
-import os
-from dotenv import load_dotenv
+from openai import OpenAI
 
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key="sk-proj-...")
 
-def chatbot(prompt, model="gpt-4"):
-    response = openai.ChatCompletion.create(
-        model=model,
+def chatbot(prompt):
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",  # lub inny dostępny model
         messages=[
-            {"role": "system", "content": "Jesteś pomocnym asystentem."},
+            {"role": "system", "content": "Jesteś pomocnym chatbotem."},
             {"role": "user", "content": prompt}
         ]
     )
-    return response['choices'][0]['message']['content']
+    return response.choices[0].message.content
+
 
 while True:
     user_input = input("Ty: ")

@@ -29,3 +29,44 @@ Szczegóły implementacji:
     Generuj tekst zdarzeń przez wywołanie wewnętrzne funkcji self._generate_event_description(node_id) (symuluj wywołanie do GPT; możesz zostawić TODO: call GPT here).
 
     Dokumentuj każdą metodę docstringiem w stylu Sphinx.
+
+8. prompty  Browse with Bing
+  - @browser
+Przeszukaj publicznie dostępne, niszowe fora i grupy dyskusyjne (Stack Exchange, Reddit, specialized forums) z ostatnich 7 dni, dotyczące przecieków i nieoficjalnych doniesień o nadchodzących premierach procesorów Intel i AMD. Podaj tytuł wątku, datę, link i krótkie 2-zdaniowe podsumowanie najciekawszego przecieku.
+- @browser
+Znajdź opublikowane w ciągu ostatnich 14 dni preprinty na arXiv lub bioRxiv dotyczące nowych metod uczenia federacyjnego w medycynie. Podaj tytuł pracy, link do PDF, autorów oraz główny wniosek/metodologię w maks. trzech zdaniach.
+
+- @browser
+Wyszukaj w oficjalnych serwisach rządowych (np. lokalne biuletyny urzędów, BIP) z ostatniego miesiąca wszelkie uchwały lub rozporządzenia dotyczące zmian w prawie o ochronie środowiska w województwie mazowieckim. Podaj numer dokumentu, datę, tytuł i krótki opis zmiany.
+
+9 Elemeenty nowatorsskie
+   Wymyśl 5 zupełnie nowych produktów konsumenckich, łączących technologie „wearable” (np. smart zegarki, okulary AR) z ekologią (np. oczyszczanie powietrza, monitoring jakości gleby). 
+Dla każdego podaj:
+1. Nazwę.
+2. Krótki opis funkcjonalności.
+3. Główne UVP (unique value proposition).
+4. Pomysł na ikonę/logo.
+
+
+
+___________________
+
+Zaprojektuj koncepcyjnie nową grę planszową, w której gracze:
+– Wspólnie tworzą historię (narrative co-op),
+– Mechanika opiera się na… generowanym losowo drzewie decyzji,
+– Rywalizacja i współpraca przeplatają się przez tzw. punkty „destiny”.
+Opisz:
+1. Cel gry i główne zasady.
+2. Komponenty (karty, żetony, plansza).
+3. Przykładową rundę rozgrywki (3 kroki).
+4. Element “twist”, który odróżnia ją od wszystkiego, co już istnieje.
+
+
+_________________
+
+Stwórz opis futurystycznego miasta XXIII w., w całości opartego na biomimetyce:
+– Podziel na trzy dzielnice, każda inspirowana innym systemem przyrodniczym (np. korale, las deszczowy, mrówki).
+– Dla każdej opisz architekturę, transport, sposób pozyskiwania energii i dominujące zawody mieszkańców.
+– Dodaj 2-3 pomysły na innowacyjne rozwiązania urbanistyczne, niestosowane dotąd nigdzie na Ziemi.
+
+

@@ -70,3 +70,37 @@ Stwórz opis futurystycznego miasta XXIII w., w całości opartego na biomimetyc
 – Dodaj 2-3 pomysły na innowacyjne rozwiązania urbanistyczne, niestosowane dotąd nigdzie na Ziemi.
 
 
+10. Prompty dla Excela:
+
+Zadanie 1:
+Stwórz plan funkcjonalny aplikacji o nazwie LifeGoals Splitter, która rozkłada duże cele życiowe użytkownika (np. schudnięcie, nauka języka, zmiana pracy) na małe, tygodniowe mikrocele i daje feedback wspierany przez AI.
+
+Wymagania:
+
+    Wygeneruj tabelę zawierającą następujące kolumny:
+    – Sekcja (np. nazwa, opis, grupa docelowa, funkcja AI, mikrocele itd.),
+    – Treść (czytelne, realne dane opisujące każdy element).
+
+    Dodaj przykładowe cele użytkownika i przykładowy rozkład mikrocelów na 2 tygodnie.
+
+    Na końcu zaproponuj alternatywny wariant tego pomysłu w stylu grywalizacji (RPG AI mentorzy).
+
+    Zapisz wynik jako plik Excel (.xlsx), gotowy do pobrania.
+
+_____________
+Zadanie 2
+Wczytaj załączony plik Excel LifeGoals_Splitter_Plan.xlsx.
+
+Następnie:
+
+    Przedstaw wszystkie sekcje i ich treść w formie czytelnej tabeli.
+
+    Przeanalizuj spójność pomysłu: czy wszystkie elementy logicznie się ze sobą łączą (nazwa → funkcja → grupa docelowa → użycie AI)?
+
+    Oceń, które z elementów wymagają doprecyzowania (np. zbyt ogólne opisy, brak konkretu).
+
+    Zaproponuj 2 ulepszenia dla funkcjonalności aplikacji oraz 2 nowe pomysły na rozwój wersji gamifikowanej (AI mentorzy RPG).
+
+Na koniec: zaproponuj nazwę alternatywną dla tego pomysłu, bardziej chwytliwą i marketingową.
+
+

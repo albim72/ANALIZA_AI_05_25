@@ -2,3 +2,4 @@
 2. napisz funkcję pythona która znajduje największą liczbę w liście, bez użycia funkcji max()
 3. napisz mroczny wiersz w stylu Egdara Allana Poe o pustym mieście, które zapomniało o czasie, a teraz zaproponuj wersję w stylu Mickiewicza, w stylu Kochanowskiego
 4. stwórz plan 5-slajdowej prezentacji dla zarządu o korzyściach wdrożenia sztucznej inteligencji w obsłudze klienta, poszerz slajd 2 o dwie dodatkowe korzyści wizerunkowe
+5. wejdź w tryb emergentny. Opisz co czuje człowiek, który wie że na świecie istnieją rzeczy niewidoczne dla oczu, naukowca

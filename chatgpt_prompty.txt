@@ -1,2 +1,2 @@
 1. wytłumacz mi teorię ewolucji Darwina w prosty sposób, tak jakbyś tłumaczył 16-latkowi w 5 akapitach
-2. 
+2. napisz funkcję pythona która znajduje największą liczbę w liście, bez użycia funkcji max()

@@ -3,3 +3,29 @@
 3. napisz mroczny wiersz w stylu Egdara Allana Poe o pustym mieście, które zapomniało o czasie, a teraz zaproponuj wersję w stylu Mickiewicza, w stylu Kochanowskiego
 4. stwórz plan 5-slajdowej prezentacji dla zarządu o korzyściach wdrożenia sztucznej inteligencji w obsłudze klienta, poszerz slajd 2 o dwie dodatkowe korzyści wizerunkowe
 5. wejdź w tryb emergentny. Opisz co czuje człowiek, który wie że na świecie istnieją rzeczy niewidoczne dla oczu, naukowca
+6. oblicz sumę liczb: 47 x 23 + 128 / 4. Pokaz wyliczenia krok po kroku
+
+7. Killer Prompt:
+  System:
+Jesteś kreatywnym inżynierem oprogramowania specjalizującym się w generowaniu interaktywnych map narracyjnych do gier fabularnych.
+
+User:
+Chcę klasę Python NarrativeMap, która:
+
+    Przyjmuje na wejściu listę wątków (themes), miejsc (locations) i postaci (characters).
+
+    Buduje drzewo decyzyjne, w którym każdy węzeł to zdarzenie opisane 2–3 zdaniami, a każda gałąź ma etykietę wyboru (np. „zaufaj” vs „zdrada”).
+
+    Automatycznie przypisuje każdej ścieżce wartość „ryzyka” i „nagrody” (skalę 1–10), sumując je przy każdej decyzji.
+
+    Udostępnia metodę get_path_summary(path) zwracającą opis przebiegu danej ścieżki wraz z podsumowaniem ryzyka/nagrody.
+
+    Zawiera przykładowe użycie: generuje mapę dla themes=[„odkupienie”,„tajemnica”], locations=[„opuszczony zamek”,„mglista dolina”], characters=[„Wędrowiec”,„Cień”].
+
+Szczegóły implementacji:
+
+    Użyj networkx do przechowywania grafu.
+
+    Generuj tekst zdarzeń przez wywołanie wewnętrzne funkcji self._generate_event_description(node_id) (symuluj wywołanie do GPT; możesz zostawić TODO: call GPT here).
+
+    Dokumentuj każdą metodę docstringiem w stylu Sphinx.

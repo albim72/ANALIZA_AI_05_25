@@ -1,2 +1,3 @@
 1. wytłumacz mi teorię ewolucji Darwina w prosty sposób, tak jakbyś tłumaczył 16-latkowi w 5 akapitach
 2. napisz funkcję pythona która znajduje największą liczbę w liście, bez użycia funkcji max()
+3. napisz mroczny wiersz w stylu Egdara Allana Poe o pustym mieście, które zapomniało o czasie, a teraz zaproponuj wersję w stylu Mickiewicza, w stylu Kochanowskiego
